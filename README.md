@@ -1,1 +1,0 @@
-# WINK_Django
